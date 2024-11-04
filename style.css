@@ -1,0 +1,77 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+  background-color: #efefef;
+}
+
+.container {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+section {
+  background-color: white;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 20px;
+}
+p {
+  line-height: 22px;
+  padding-bottom: 20px;
+}
+h1 {
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+  color: #393c6c;
+}
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #f3735f;
+  padding-top: 70px;
+  padding-bottom: 20px;
+}
+h3 {
+  font-size: 18px;
+  font-weight: bold;
+  color: #393c6c;
+  line-height: 22px;
+}
+header {
+  background-color: white;
+  border-bottom: 1px solid #f3735f;
+}
+.logo {
+  padding: 10px;
+  height: 30px;
+}
+.main {
+  width: 1024px;
+  background-color: white;
+  margin-top: 50px;
+  padding-bottom: 50px;
+}
+.Titre_principal {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+.végetarien {
+  text-align: center;
+  color: #7f7f7f;
+}
+.timeDiv {
+  text-align: center;
+  background-color: #8a98b1;
+
+  border-radius: 12px;
+  margin-right: 30%;
+  margin-left: 30%;
+}
+.timeText {
+  font-size: 80px;
+}
